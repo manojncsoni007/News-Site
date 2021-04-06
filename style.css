@@ -1,0 +1,12 @@
+.container, h4 {
+    text-align: center;
+    margin-top: 6px;
+}
+.newsContainer {
+    float: left;
+}
+.card {
+    margin: 10px;
+    float: left;
+    
+}
